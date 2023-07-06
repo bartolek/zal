@@ -1,1 +1,1 @@
-# zal
+# zaliczenie
